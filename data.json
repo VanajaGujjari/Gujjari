@@ -1,0 +1,67 @@
+{
+	"basics":{
+		"name":"VANAJA GUJJARI",
+		"email":"vanajagujjariemail@gmail.com",
+		"mobile":"+91 9456789596"
+
+	},
+
+
+
+"career":{
+	"heading":"carrer-objective",
+"info":"To have a growth, oriented and challenging career, where I can contribute my knowledge and skills to the organization and enhance my experience through continuous learning and teamwork."
+	},
+
+
+
+"education":[
+	{
+		"heading":"Education-Qualification"
+	},
+	
+	{
+     "degree":"B.TECH(CSE)",
+     "institute":"Avanthi",
+	 "data":["2015-19","76%"] 
+ 	},
+
+ 	{
+     "degree":"MPc",
+     "institute":"sri chaitanya junior college",
+	 "data":["2013-15","89%"] 
+ 	},
+ 	{
+     "degree":"stateBoard",
+     "institute":"universal public school",
+	 "data":["2013","90%"] 
+ 	}
+
+],
+
+
+
+
+
+"technical":[
+	
+{
+	"title":"programming Languages",
+	"info":["C","CPP","JAVA", "Advance JAVA", "C#", "HTML5", "CSS","PHP", "Fire Base", "Oracle","MySQL", "Python", "Core Python", "Advance Python"]
+},
+    {
+    	"title":"Operating systems",
+    "info":["Microsoft Window"," Linux","DOS"]
+    },
+
+    {
+    "title":"Libraries and FrameWorks",
+   "info":["Mean Stack","Ionic", "JavaScript","MongoDB","ExpressJs", "Angular 4", "NodeJS"," Type Script","CloudAnt","Chat Bot-IBMbluemix"]
+}
+
+
+]
+
+
+
+}
